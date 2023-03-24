@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container1{
+    border: 1px solid; background-color: white;
+    position: absolute;
+
+
+    }
+.picture1{
+    position: relative;
+    display: flex;
+}
+.block1{
+position: absolute;
+margin-top: 250px;
+}
+.picture2{
+    display: flex; 
+    width: 200px; height: 270px;
+    margin-top: 30px;
+}
+.picture3{ 
+    margin-top: 0px ;
+    width: 200px; height: 270px; 
+    display: flex
+}
+
+.picture4{
+    display: flex;
+    width: 200px;height: 270px;}
+
+
+    
+
+.picture5{
+    display: flex;
+    width: 200px; height: 270px;
+}
